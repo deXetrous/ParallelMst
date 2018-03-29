@@ -1,0 +1,3 @@
+Parallel implemetation of Prim:-
+
+Time complexity :- O(n^2/p) + O(n*p)
